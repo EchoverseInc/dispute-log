@@ -13,3 +13,13 @@ categories: [进度]
 #### 四级标题
 ##### 五级标题
 这是一个 DEMO , 后续可以根据这个 DEMO 进行修改
+
+## Contributors
+
+| Name                | GitHub                                           | Social                                |
+|:--------------------|:-------------------------------------------------|:--------------------------------------|
+| **Leosouthey**      | [**@Leosouthey**](https://github.com/Leosouthey) | [**@Leosouthey@QQ**](https://qq.com/) |
+
+## License
+
+MIT
